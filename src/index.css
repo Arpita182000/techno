@@ -1,0 +1,38 @@
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+body {
+  font-family: "Poppins", Arial, sans-serif;
+}
+/* styles.css */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
+
+.roleBox {
+  /* width: 128px; */
+  padding: 10px 10px;
+  height: 40px !important;
+  background-color: #dfedf3;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.managerBox {
+  /* width: 128px; */
+  padding: 10px 10px;
+  /* height: 40px !important; */
+  background-color: #ECDEE0;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}

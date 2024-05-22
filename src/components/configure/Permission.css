@@ -1,0 +1,11 @@
+.PermissionClass {
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  .header {
+    margin-bottom: 10px;
+     /* Adjust as needed */
+  }

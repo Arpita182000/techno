@@ -1,0 +1,10 @@
+.bar {
+    fill: steelblue; /* Change fill color */
+    stroke: black; /* Add border */
+    stroke-width: 2; /* Border width */
+  }
+  
+  .bar:hover {
+    fill: orange; /* Change fill color on hover */
+  }
+  

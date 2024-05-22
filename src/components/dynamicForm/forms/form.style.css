@@ -1,0 +1,15 @@
+.horizontal-line {
+    border-top: 0.25px solid #b6b0b0; /* Black color */
+    margin: 5px 0; /* Adjust margin as needed */
+  }
+  .expandButton-class{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+  }
+  /* .form-class{
+    
+  } */
+  .address-class{
+    padding-top: 2rem;
+  }
